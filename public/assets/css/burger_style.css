@@ -1,17 +1,16 @@
-li {
-  padding: 5px;
-  margin: 5px;
-  background: #faebd7;
+body {
+	background-color: #ffb380;
 }
 
-.label {
-  font-weight: bold;
+ul{
+	list-style-type: none;
 }
+
+
 
 .create-update-form {
   padding: 5px;
   margin: 5px;
-  background: aqua;
 }
 
 .form-group {
